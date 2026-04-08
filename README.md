@@ -21,4 +21,4 @@ pip install pandas matplotlib
 python main1.py
 
 ## 📸 Screenshot
-![Tool Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
