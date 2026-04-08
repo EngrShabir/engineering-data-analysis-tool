@@ -20,5 +20,4 @@ A Python tool for analyzing engineering datasets from CSV files.
 pip install pandas matplotlib
 python main1.py
 
-## 📸 Screenshot
-![Screenshot](screenshot.png)
+
