@@ -5,3 +5,4 @@ plotly
 reportlab
 statsmodels
 openpyxl
+matplotlib
