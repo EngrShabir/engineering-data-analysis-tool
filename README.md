@@ -70,7 +70,22 @@ Automatically detects and flags:
 pip install streamlit pandas numpy plotly reportlab statsmodels openpyxl
 streamlit run app.py
 ```
+## 📁 Sample Dataset
 
+A sample file `data100.csv` is included in this repo to test the dashboard immediately.
+
+| Column | Description |
+|--------|-------------|
+| sample_id | Sample number (1–100) |
+| temperature | Temperature readings (°C) |
+| pressure | Pressure values (bar) |
+| stress | Stress measurements (MPa) |
+| strain | Strain values (dimensionless) |
+
+The file intentionally contains a few **null values** to let you test the data cleaning features (drop nulls / fill with mean or median).
+
+
+🔗 **Live Demo:** https://engineering-data-analysis-tool-q7pp3mas5z9msrvjgndlub.streamlit.app/
 ---
 
 ## 👨‍💻 Author
